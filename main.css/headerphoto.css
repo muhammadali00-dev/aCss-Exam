@@ -1,0 +1,13 @@
+section.businnes {
+  background-image: url(../images/header-background.jpg);
+    text-align: center;
+    padding-top: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    
+}
+.disc {
+    background-color: #029e62;
+    border-radius: 10px;
+}
